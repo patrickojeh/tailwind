@@ -1,0 +1,14 @@
+body {
+  @apply
+    bg-slate-500 h-screen
+}
+
+h1 {
+  @apply
+    text-white text-center
+}
+
+.center {
+  @apply
+    h-full flex items-center justify-center
+}
